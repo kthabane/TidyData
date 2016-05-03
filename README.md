@@ -21,7 +21,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 ##Script Analysis
 
 The script performs the following steps (output from actual program):
-[1] "STEP 1 : Load required packages - completed"
+[1] "STEP 1 : Load required packages - completed" \t
 [1] "STEP 2: Declare/setup all constant variables - completed"
 [1] "STEP 3: Download Zip File and Unzip - completed"
 [1] "STEP 4: Load features files and extract all 'mean' and 'std' pieces -completed"
